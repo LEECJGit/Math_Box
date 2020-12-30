@@ -1,3 +1,5 @@
+# 추가
+
 import sys
 
 from PyQt5.QtWidgets import *
